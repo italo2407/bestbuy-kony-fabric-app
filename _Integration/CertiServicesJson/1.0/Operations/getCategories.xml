@@ -6,7 +6,7 @@
         <config-param api-version="" appid="" name="preprocessorJS" value=""/>
         <config-param api-version="" appid="" name="postprocessorJS" value=""/>
         <config-param api-version="" appid="" name="kony_http_supported_methods" value="POST"/>
-        <config-param api-version="" appid="" name="endpointUrl" value="https://api.bestbuy.com/v1/categories(id=$id)?format=json&amp;apiKey=$apiKey"/>
+        <config-param api-version="" appid="" name="endpointUrl" value="https://api.bestbuy.com/v2/categories(id=$id)?format=json&amp;apiKey=$apiKey"/>
         <config-param api-version="" appid="" name="ignorehttpproxy" value="true"/>
         <config-param api-version="" appid="" name="http.method" value="GET"/>
         <config-param api-version="" appid="" name="dataObjectName" value=""/>

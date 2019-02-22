@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<endpoint name="default" type="JSON" url="https://api.bestbuy.com/v1" encryptSecureInfo="false">
+<endpoint name="default" type="JSON" url="https://api.bestbuy.com/v2" encryptSecureInfo="false">
     <config>
         <entry>
             <key>ignorehttpproxy</key>
