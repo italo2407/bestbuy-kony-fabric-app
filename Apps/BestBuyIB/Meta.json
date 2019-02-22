@@ -1,0 +1,9 @@
+{
+  "subType" : "customapp",
+  "description" : "CertiProject",
+  "version" : "1.0",
+  "intSvcs" : [ {
+    "name" : "CertiServicesJson",
+    "version" : "1.0"
+  } ]
+}

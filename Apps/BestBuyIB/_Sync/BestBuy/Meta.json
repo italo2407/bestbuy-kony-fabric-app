@@ -1,0 +1,73 @@
+{
+  "strategy" : "OTASync",
+  "nameSpace" : null,
+  "dataSource" : "CertiServicesJson",
+  "changeTrackingPolicyType" : "datasource",
+  "softDeleteFlag" : true,
+  "lastUpdateTimeStamp" : true,
+  "conflictPolicyType" : "clientwins",
+  "syncJar" : null,
+  "className" : null,
+  "operations" : {
+    "Operation" : [ {
+      "InputHeader" : {
+        "Param" : [ ],
+        "AutoAttributeMapping" : null
+      },
+      "Input" : {
+        "paramOrDataset" : [ ],
+        "Relationship" : null,
+        "AutoAttributeMapping" : null
+      },
+      "Output" : {
+        "paramOrDataset" : [ ],
+        "Relationship" : null,
+        "AutoAttributeMapping" : null
+      },
+      "SupportedObjects" : null,
+      "Name" : "login",
+      "DataSource" : "CertiServicesJson",
+      "ServiceID" : "None"
+    }, {
+      "InputHeader" : {
+        "Param" : [ ],
+        "AutoAttributeMapping" : null
+      },
+      "Input" : {
+        "paramOrDataset" : [ ],
+        "Relationship" : null,
+        "AutoAttributeMapping" : null
+      },
+      "Output" : {
+        "paramOrDataset" : [ ],
+        "Relationship" : null,
+        "AutoAttributeMapping" : null
+      },
+      "SupportedObjects" : null,
+      "Name" : "logout",
+      "DataSource" : "CertiServicesJson",
+      "ServiceID" : "None"
+    }, {
+      "InputHeader" : {
+        "Param" : [ ],
+        "AutoAttributeMapping" : null
+      },
+      "Input" : {
+        "paramOrDataset" : [ ],
+        "Relationship" : null,
+        "AutoAttributeMapping" : null
+      },
+      "Output" : {
+        "paramOrDataset" : [ ],
+        "Relationship" : null,
+        "AutoAttributeMapping" : null
+      },
+      "SupportedObjects" : null,
+      "Name" : "getServerTime",
+      "DataSource" : "CertiServicesJson",
+      "ServiceID" : "None"
+    } ]
+  },
+  "identityProviders" : [ ],
+  "dataSourceType" : "integration"
+}
